@@ -41,6 +41,7 @@ td {
     font-weight: bold;
     padding: 8px;
     transition: .5s ease;
+    cursor: pointer;
 
 }
 
